@@ -1,0 +1,6 @@
+{:deps
+ {org.clojure/clojure {:mvn/version "1.9.0"}
+  org.apache.poi/poi {:mvn/version "3.17"}
+  org.apache.poi/poi-ooxml {:mvn/version "3.17"}}
+ 
+ :paths ["src"]}
